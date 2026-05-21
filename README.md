@@ -34,10 +34,10 @@ Este proyecto modela un laberinto como un **grafo no dirigido**, donde cada celd
 
 | Tecnología | Uso |
 |---|---|
-| Python 3.x | Lenguaje principal |
+| Python | Lenguaje principal |
 | `collections.deque` | Cola para BFS |
 | Módulo `random` | Generación aleatoria del laberinto |
-| Archivos `.txt` | Carga y almacenamiento de laberintos |
+| Archivos `.json` | Carga y almacenamiento de laberintos |
 
 > No se usan librerías externas. Solo la biblioteca estándar de Python.
 
