@@ -26,7 +26,7 @@ Este proyecto modela un laberinto como un **grafo no dirigido**, donde cada celd
 
 | Nombre | GitHub |
 |---|---|
-| Anthonio Villalba | [anthoniovillalba066](https://github.com/anthonio-villalba) |
+| Anthonio Villalba | [anthoniovillalba066](https://github.com/anthoniovillalba066) |
 
 ---
 
