@@ -52,9 +52,6 @@ villalba-laberinto-grafos/
 │
 ├── src/
 │   ├── main.py           # Punto de entrada del programa
-│   ├── laberinto.py      # Clase Laberinto (matriz + grafo)
-│   ├── bfs.py            # Algoritmo BFS
-│   └── dfs.py            # Algoritmo DFS
 │
 ├── data/
 │   ├── laberinto1.txt    # Laberinto de ejemplo pequeño
@@ -72,7 +69,7 @@ villalba-laberinto-grafos/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/anthonio-villalba/villalba-laberinto-grafos.git
+git clone https://github.com/anthoniovillalba066/villalba-laberinto-grafos
 cd villalba-laberinto-grafos
 ```
 
