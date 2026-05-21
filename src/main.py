@@ -289,6 +289,7 @@ def menu():
             try:
                 maze = Maze.load(path)
                 bfs_path, dfs_path = [], []
+                print(maze.display())
             except FileNotFoundError:
                 print("✗ Archivo no encontrado.")
 
